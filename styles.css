@@ -10,7 +10,7 @@
   *::after {
     box-sizing: border-box;
   }
-  @media (min-width: 576px) {
+  @media (min-width: 577px) {
     .container {
       max-width: 540px;
     }
